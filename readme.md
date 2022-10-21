@@ -1,4 +1,4 @@
 Codes for sorting algorithms 
 
-Add your codes for Hacktober 
-
+Fork and Add your codes for Hacktober 
+Star the repo pls
